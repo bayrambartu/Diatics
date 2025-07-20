@@ -1,16 +1,20 @@
 ## Zoo Simülation
 
-This project is a basic ecosystem simulation written in Go, where various animals interact in a virtual environment.
+#  Zoo Simulation
+
+This project is a basic ecosystem simulation written in Go, where various animals interact in a virtual environment.  
 Creatures move randomly, hunt, and reproduce under defined biological rules.
+
 ---
 
-## Features
+##  Features
 
--Creatures move randomly across a 2D field.
--Predators (Wolf, Lion, Hunter) can hunt specific species.
--Reproducible species (Sheep, Cow, Chicken, Wolf, Lion) can give birth to offspring under correct conditions.
--Each entity has a reproduction cooldown to avoid instant repeated births.
--Detailed simulation reports are printed every 100 steps.
+- Creatures move randomly across a 2D field.
+- Predators (Wolf, Lion, Hunter) can hunt specific species.
+- Reproducible species (Sheep, Cow, Chicken, Wolf, Lion) can give birth to offspring under correct conditions.
+- Each entity has a reproduction cooldown to avoid instant repeated births.
+- Detailed simulation reports are printed every 100 steps.
+
 ---
 
 ## Project Structure
