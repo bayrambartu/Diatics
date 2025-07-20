@@ -1,4 +1,4 @@
-# Zoo Simülation
+## Zoo Simülation
 
 This project is a basic ecosystem simulation written in Go, where various animals interact in a virtual environment.
 Creatures move randomly, hunt, and reproduce under defined biological rules.
